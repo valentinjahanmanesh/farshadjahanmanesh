@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Farshid Jahanmanesh 👋</h1>
+<h1>Hi there, I'm Farshad Jahanmanesh 👋</h1>
 
 <p align="center"> 
  <strong>
@@ -15,11 +15,11 @@
 - 💬 Ask me about: Swift, Objective-C, Python3, JavaScript
 - 👯 I’m looking to collaborate on: Swift projects
 
-[![farshid's GitHub stats](https://github-readme-stats.vercel.app/api?username=farshadjahanmanesh&show_icons=true&theme=dracula&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Farshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=farshadjahanmanesh&show_icons=true&theme=dracula&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farshadjahanmanesh&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=farshadjahanmanesh&layout=compact&theme=dracula)](https://git.io/streak-stats)
 <!--
-**farshidjahanmanesh/farshidjahanmanesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**farshadahanmanesh/farshadjahanmanesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
